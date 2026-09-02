@@ -1,0 +1,14 @@
+Title: Mathematical Calculator using Built-in Functions and Math Module
+Objective
+Develop a Python program that performs various mathematical operations using arithmetic operators, built-in functions, and the math module.
+Problem Statement
+Write a Python program that accepts a floating-point number from the user and displays the following:
+1. Square
+2. Cube
+3. Square Root
+4. Ceiling Value
+5. Floor Value
+6. Absolute Value
+7. Type of the Variable
+8. Memory Address (ID)
+Use appropriate built-in functions and the math module wherever applicable.

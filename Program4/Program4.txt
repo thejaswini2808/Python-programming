@@ -1,0 +1,25 @@
+Title: Electricity Bill Generator
+Objective
+Develop a simple real-world billing application using Python variables, arithmetic operators, input/output statements, built-in functions, and formatted printing.
+Problem Statement
+A residential electricity provider wants a simple billing system.
+Write a Python program that performs the following tasks:
+1. Accept the following details from the user:
+○ Consumer Name
+○ Consumer ID
+○ Previous Meter Reading (kWh)
+○ Current Meter Reading (kWh)
+○ Cost per Unit (₹)
+2. Calculate:
+○ Total Units Consumed
+○ Energy Charge
+○ Electricity Duty (5% of Energy Charge)
+○ Fixed Meter Charge (₹100)
+○ Net Bill Amount
+3. Display the bill in a professional format.
+Formula:
+Units Consumed = Current Reading − Previous Reading
+Energy Charge = Units × Cost per Unit
+Electricity Duty = 5% of Energy Charge
+Fixed Meter Charge = ₹100
+Net Bill = Energy Charge + Electricity Duty + Fixed Charge 

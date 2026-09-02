@@ -1,0 +1,12 @@
+Title: Scientific Calculator for Two NumbersObjective
+Develop a Python program to perform various arithmetic operations on two numbers and
+display the results in a well-formatted manner.
+Problem Statement
+Write a Python program that accepts two numbers from the user and performs the following operations:● Addition
+● Subtraction
+● Multiplication
+● Division
+● Floor Division
+● Modulus
+● Exponentiation
+Display all results using formatted output.

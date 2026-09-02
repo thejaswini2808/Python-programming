@@ -1,0 +1,15 @@
+Title: Student Information and Academic Summary
+Objective
+Write a Python program that accepts a student's personal and academic details and displays them in a neatly formatted manner using formatted strings.
+Problem Statement
+Write a Python program to perform the following tasks:
+1. Accept the following inputs from the user:
+○ Student Name
+○ USN
+○ Branch
+○ Semester
+○ Three subject marks
+2. Calculate:
+○ Total Marks
+○ Average Marks
+3. Display all the information using formatted output.
